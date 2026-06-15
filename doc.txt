@@ -1,0 +1,2 @@
+here i am writing first line content
+we are about git flow commands in git bash
