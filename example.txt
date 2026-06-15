@@ -1,1 +1,2 @@
-This is example for python structure
+This is example for python language
+this is example for git flow
